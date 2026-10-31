@@ -1,0 +1,9 @@
+# 槽序格式钩 · 插件化
+# 第一性原理对话引擎令的"格式钩"此前只有脚本（--检）与会话纪律，没有常驻区块与验槽工具，此炉补上。
+- insert:
+    - id: ql-frame
+      name: 'dsh-frame-kit'
+      config:
+        enabled: true
+        order: 150
+        tool: true
